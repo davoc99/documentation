@@ -1,6 +1,6 @@
 # readme
 
-## commandes windows
+## Commandes windows
 
 Lister le contenu d'un dossier :
 
